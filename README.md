@@ -7,8 +7,9 @@ representation for various tasks. It is the discipline of augmenting, cleaning, 
 standardizing, and enriching data in a way that allows it to be used in a downstream
 task. This process involves 4 steps namely
 
-1.Discovering
-2.Cleaning
-3.Structing
+1.Discovering<br>
+2.Cleaning<br>
+3.Structing<br>
 4.Enriching and Validating data
 
+**Datasets used**: city_day.csv, Crop_Production.csv, Crop_Production1.csv
